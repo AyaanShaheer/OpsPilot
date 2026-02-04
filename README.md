@@ -4,7 +4,8 @@ Cloud-native AI platform for intelligent developer workflows.
 
 ## Architecture
 
-![High Level Architecture](D:\Download_Folder_D\Gemini_Generated_Image_q9kcmwq9kcmwq9kc.png)
+<img width="2816" height="1536" alt="Gemini_Generated_Image_q9kcmwq9kcmwq9kc" src="https://github.com/user-attachments/assets/680cd44b-bcbe-4436-b933-7632b724609f" />
+
 
 
 - **Frontend**: Next.js + TailwindCSS + shadcn/ui
@@ -27,3 +28,4 @@ ops-pilot/
 - **Windows**: Coding, Git, Terraform
 - **CentOS VM**: Docker, k3s, K8s testing
 - **AWS**: Production deployment
+
